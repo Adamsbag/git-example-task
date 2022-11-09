@@ -1,2 +1,1 @@
-# git-example-task
-My repo for yourdevopsmentor.com
+Automating AWS with terraform
